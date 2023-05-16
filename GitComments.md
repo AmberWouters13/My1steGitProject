@@ -7,7 +7,7 @@ git commit -m "meaningful meassage"
 ```
 
 ```How to use staging area
-git add *
+git add * (add them all)
 git add .
 git add <file_1> <fiel_2> <file_3>
 git add $.csv
@@ -33,4 +33,18 @@ Set up a stream
  git push --set-upstream My1steGitProject master
 
 
+```
+
+From git to github
+
+```
+git push
+```
+
+
+
+From github to git
+
+```
+git pull
 ```
