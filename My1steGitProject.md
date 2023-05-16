@@ -18,6 +18,6 @@ Conceptual areas:
 
 - Dev area: folder where i develop my project 
 
-- Staging area: ogranize, to prepare , intermediate area to organize and to plan and commit
+- Staging area: ogranize, to prepare, intermediate area to organize and to plan and commit
 
 - local repository: Save your timeline
