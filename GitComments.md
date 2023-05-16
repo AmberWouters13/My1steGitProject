@@ -48,3 +48,17 @@ From github to git
 ```
 git pull
 ```
+
+
+
+![image to my doc]｛https://raw.githubusercontent.com/AmberWouters13/My1steGitProject/master/foto.png｝
+
+
+
+to go to the previous commit 
+
+```
+git revert (ID commit)
+```
+
+
