@@ -55,3 +55,4 @@ git revert (ID commit)
 
 
 Solving conflict
+ADD
