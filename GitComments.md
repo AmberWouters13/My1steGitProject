@@ -52,7 +52,6 @@ to go to the previous commit
 git revert (ID commit)
 ```
 
-
 Add new branches 
 
 ```
@@ -86,3 +85,9 @@ git switch -c Take-a-leap-in-time (virtual branch to teh branch that you created
 ```
 
 > > > > > > > NEW_branch
+
+g
+
+Tagging
+
+add tag: git tag NAME
