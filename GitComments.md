@@ -53,6 +53,3 @@ git revert (ID commit)
 ```
 
 Solving conflict
-<<<<<<< HEAD
-
->>>>>>> 611b288b6e5eb5bc1a0cb19ddf7f603aaf38d0e0
