@@ -70,3 +70,18 @@ you the history of the commits -> see comparisons
 
 Git checkout:
 you can move around branches -W move between different timelines
+
+
+
+<style>
+</style>
+
+Add a new line (changing the past): floating point in time (very risky)
+
+```
+git checkout <ID commit>
+
+To make teh change in time a new branch
+git switch -c Take-a-leap-in-time (virtual branch to teh branch that you created 
+)
+```
