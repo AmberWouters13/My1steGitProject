@@ -52,6 +52,6 @@ to go to the previous commit
 git revert (ID commit)
 ```
 
-
-
 Solving conflict
+
+conflict
