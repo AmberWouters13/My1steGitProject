@@ -52,4 +52,37 @@ to go to the previous commit
 git revert (ID commit)
 ```
 
-Solving conflict
+
+Add new branches 
+
+```
+git checkout Name
+git branch Name
+git checkout master (go back to the master branch)
+```
+
+Difference git show/diff and git checkout 
+
+<style>
+</style>
+
+Git show gives
+you the history of the commits -> see comparisons
+
+Git checkout:
+you can move around branches -W move between different timelines
+
+<style>
+</style>
+
+Add a new line (changing the past): floating point in time (very risky)
+
+```
+git checkout <ID commit>
+
+To make teh change in time a new branch
+git switch -c Take-a-leap-in-time (virtual branch to teh branch that you created 
+)
+```
+
+> > > > > > > NEW_branch
